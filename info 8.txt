@@ -1,0 +1,8 @@
+Generate emission output using the following command
+sumo -c myConfig.sumocfg --emission-output my_emission_file.xml
+	
+Generate the CSV file ‘emissionData.csv’ using the emission output xml file.
+
+Connect to the MongoDB database and insert data into the database.
+
+Generate graphs.
